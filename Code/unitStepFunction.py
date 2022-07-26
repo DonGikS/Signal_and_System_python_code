@@ -18,12 +18,3 @@ def unitStepFunction():
     plt.plot(t,b)
     plt.grid()
     #plt.show()
-
-def unitRampFuntion():
-    pass
-    
-def main():
-    unitStepFunction()
-    plt.show()
-
-main()
