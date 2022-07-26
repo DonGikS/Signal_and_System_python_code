@@ -1,1 +1,3 @@
-# Signal_and_System_python_code
+# Signal_and_Systems_python_code
+> Example1_Result
+> ![ExampleCode1Image](https://github.com/DonGikS/Signal_and_Systems_python_code/blob/main/Image/Example_Code1.png)
