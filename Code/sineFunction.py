@@ -15,5 +15,5 @@ def sineFunction():
     plt.xlabel('time[sec]')
     plt.ylabel('Sine Function')
     plt.plot(t,d)
-    plt.grid()
+    plt.grid(linestyle='--')
     #plt.show()

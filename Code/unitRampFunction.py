@@ -15,5 +15,5 @@ def unitRampFunction():
     plt.xlabel('time[sec]')
     plt.ylabel('Unit Ramp Function')
     plt.plot(t,c)
-    plt.grid()
+    plt.grid(linestyle='--')
     #plt.show()

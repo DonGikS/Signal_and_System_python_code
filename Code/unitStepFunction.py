@@ -15,5 +15,5 @@ def unitStepFunction():
     plt.xlabel('time[sec]')
     plt.ylabel('Unit Step Function')
     plt.plot(t,b)
-    plt.grid()
+    plt.grid(linestyle='--')
     #plt.show()
