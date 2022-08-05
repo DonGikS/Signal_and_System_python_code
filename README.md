@@ -6,4 +6,6 @@
 > Example3_Result  
 > ![Example3_ResultImage](https://github.com/DonGikS/Signal_and_Systems_python_code/blob/main/Image/Example3_Result.png)  
 > Example3_Result2  
-> ![Example3_Result2Image](https://github.com/DonGikS/Signal_and_Systems_python_code/blob/main/Image/Example3_Result2.png)
+> ![Example3_Result2Image](https://github.com/DonGikS/Signal_and_Systems_python_code/blob/main/Image/Example3_Result2.png)  
+> Example4_Result  
+> ![Example4_ResultImage](https://github.com/DonGikS/Signal_and_Systems_python_code/blob/main/Image/Example4_Result.png)
